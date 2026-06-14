@@ -1,12 +1,12 @@
-# Toyeeb Oladoye | DevSecOps & AI Automation Engineer
+# Toyeeb Oladoye | DevSecOps, DevOps, Cybersecurity, Cloud & AI Automation Engineer
 
-**Specializing in the intersection of Secure Infrastructure, Cloud Architecture, and AI Operations.**
+**Engineering secure, scalable infrastructure and resilient automation pipelines.**
 
-I build the secure, scalable foundations required for AI pipelines. My background in Cybersecurity and DevSecOps allows me to deploy AI automation that is not only functional but resilient and compliant.
+I build and audit the systems that power modern digital environments. My expertise bridges the gap between robust DevSecOps practices, cloud-native architecture, and the specific security needs of AI-driven operations.
 
-- **Infrastructure & Cloud:** Proven expertise in AWS, virtualized deployment, and network security.
-- **Security & Compliance:** Experienced in cloud infrastructure auditing, PII redaction, and audit workflows.
-- **Automation:** API-first development using Python to bridge the gap between data operations and secure deployment.
+- **DevSecOps & Cybersecurity:** Experienced in vulnerability management, network defense, and secure system configuration.
+- **Cloud Infrastructure:** Expertise in AWS, virtualized environments, and scalable deployment strategies.
+- **Automation:** API-first Python development for operational efficiency, security auditing, and AI pipeline orchestration.
 
 *Note: Much of my recent professional work in AI-assisted automation and RLHF evaluation is covered by NDAs and restricted to internal enterprise environments.*
 
@@ -14,8 +14,8 @@ I build the secure, scalable foundations required for AI pipelines. My backgroun
 | :--- | :--- |
 | Python | Advanced |
 | DevSecOps | Expert |
-|Cloud and DevOps| Expert|
-|Cybersecurity| |Expert|
+| Cloud & DevOps | Expert |
+| Cybersecurity | Expert |
 | Cloud Infrastructure (AWS/VMs) | Advanced |
 | API Integration (REST) | Advanced |
 | Security Auditing | Expert |
